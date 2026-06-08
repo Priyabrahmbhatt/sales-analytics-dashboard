@@ -1,4 +1,3 @@
-# sales-analytics-dashboard
 # Sales Analytics Dashboard
 
 ## Overview
@@ -40,3 +39,8 @@ Superstore Sales Dataset
 * Sales Forecasting
 * Customer Segmentation Analysis
 * Profitability Analysis
+
+  
+## Output
+<img width="640" height="480" alt="visulas" src="https://github.com/user-attachments/assets/d849ab7b-190b-4fd1-934b-471896d7cb67" />
+
